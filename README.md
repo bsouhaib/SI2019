@@ -1,11 +1,11 @@
 # Séminaire d'informatique
 
 
-1. 20 Février 2019
+1.	20 Février 2019
 
-2. 27 Février 2019
+2.	27 Février 2019
 
-3. 6 Mars 2019
+3.	6 Mars 2019
 
 13 Mars 2019 
 
