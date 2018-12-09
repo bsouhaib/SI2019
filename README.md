@@ -1,4 +1,4 @@
-# Séminaire d'informatique
+# Séminaire d'informatique à l'UMONS (2019)
 
 <!--- A l'issue de ces séminaires, les étudiants seront en mesure de comprendre différents concepts/outils émergents dans le domaine informatique au sens large ainsi que l'importance qu'il faut accorder aux activités de veille technologique. -->
 
