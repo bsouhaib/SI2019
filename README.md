@@ -5,7 +5,6 @@
 
 1.	Mercredi 20 Février 2019
 	*	Vandy Berten, SMALS
-https://www.smalsresearch.be/author/berten/
 
 2.	Mercredi 27 Février 2019
 
