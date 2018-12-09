@@ -43,28 +43,3 @@ https://www.smalsresearch.be/author/berten/
 
 	*	TBC
 
-
-https://www.linkedin.com/in/romuald-deshayes-433b1319/
-
-https://www.raincodelabs.com/ (MARKUS ??)
-
-http://m3systems.net/ - https://www.linkedin.com/in/fabienne-mestdagh-150000108/
-
-https://www.linkedin.com/in/vincent-de-graer-41178b16/
-
-https://www.erasme.ulb.ac.be/fr/a-propos-de-l-hopital/services-administratifs/departement-des-systemes-informatiques-dsi#contact
-
-THALES COMMUNICATIONS BELGIUM - LIRAN LERMAN
-
-SEBASTIEN COLETTE ??? (je lui en ai parlé), https://www.linkedin.com/in/angelo-cuttitta-51b85216/?originalSubdomain=be
-
-Emilien Peretti - SMALS
-
-
-1 crédit = 25 à 30 heures de travail.
-2 ECTS = 60 heures
-20 heures de présentations
-
-
-
-
