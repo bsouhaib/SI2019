@@ -1,4 +1,4 @@
-# Séminaire d'informatique à l'UMONS (2019)
+# Séminaires d'informatique à l'UMONS (2019)
 
 <!--- A l'issue de ces séminaires, les étudiants seront en mesure de comprendre différents concepts/outils émergents dans le domaine informatique au sens large ainsi que l'importance qu'il faut accorder aux activités de veille technologique. -->
 
@@ -6,15 +6,19 @@
 1.	Mercredi 20 Février 2019 (Mons, centre Vésale, auditoire 025)
 	*	Vandy Berten, SMALS
 
-2.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
+2.  Vendredi 22 Février 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	Hadrien Polastro, Worldline
+
+2.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
+
+	*	Pas de séminaire
 
 3.	Mercredi 6 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	Mathieu Goeminne, CETIC 
 
-4.	Mercredi 13 Mars 2019 (Charleroi, local 1.11)
+4.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
 	*	Maxime Denis, Necko Technologies
 
@@ -24,21 +28,21 @@
 
 6.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	TBC  (M3 SYSTEMS ??)
+	*	TBC  (??? Philippe Dubernard, IBM)
 
 7.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
 	
-	*	TBC (SEBASTIEN COLETTE ??)
+	*	TBC (??? SEBASTIEN COLETTE)
 
-8. 	Jeudi 2 mai 2019 (Charleroi, local 1.11)
+8. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
 	*	Angelo Cuttitta, Myrmidons
 
 9.	Mercredi 8 mai 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	TBC (DAVID BLAMPAIN ??)
+	*	Evaluation
 
 10.	Mercredi 15 mai 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	Philippe Dubernard, IBM
+	*	Evaluation
 
