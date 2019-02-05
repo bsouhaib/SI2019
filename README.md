@@ -4,7 +4,7 @@
 
 
 1.	Mercredi 20 Février 2019 (Mons, centre Vésale, auditoire 025)
-	*	Vandy Berten, SMALS
+	* *Graph & Network Analytics : The power of relations*, Vandy Berten, SMALS 
 
 2.  Vendredi 22 Février 2019 (Mons, centre Vésale, auditoire 025)
 
