@@ -12,7 +12,7 @@
 
 2.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	Pas de séminaire
+	*	**Pas de séminaire**
 
 3.	Mercredi 6 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
