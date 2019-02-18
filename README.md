@@ -8,7 +8,7 @@
 
 2.  Vendredi 22 Février 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	Hadrien Polastro, Worldline
+	* *From product idea to actual solution delivery*, Hadrien Polastro, Worldline
 
 2.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
 
