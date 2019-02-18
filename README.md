@@ -28,11 +28,11 @@
 
 6.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	TBC  #(??? Philippe Dubernard, IBM)
+	*	TBD  <!--- (??? Philippe Dubernard, IBM) --->
 
 7.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
 	
-	*	TBC #(??? SEBASTIEN COLETTE)
+	*	TBD <!---  (??? SEBASTIEN COLETTE) --->
 
 8. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
@@ -40,9 +40,9 @@
 
 9.	Mercredi 8 mai 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	Evaluation
+	*	Évaluation
 
 10.	Mercredi 15 mai 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	Evaluation
+	*	Évaluation
 
