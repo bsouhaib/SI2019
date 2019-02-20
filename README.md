@@ -10,40 +10,40 @@
 
 	* *From product idea to actual solution delivery*, Hadrien Polastro, Worldline
 
-2.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
+3.	Mercredi 27 Février 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	**Pas de séminaire**
 
-3.	Mercredi 6 Mars 2019 (Mons, centre Vésale, auditoire 025)
+4.	Mercredi 6 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	*SMACK: une pile logicielle pour le traitement big data*, Dr. Mathieu Goeminne, CETIC 
 
-4.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
+5.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
 	*	Maxime Denis, Necko Technologies
 
-5.	Mercredi 20 Mars 2019 (Mons, Grands Amphithéâtres, auditoire Gutenberg)
+6.	Mercredi 20 Mars 2019 (Mons, Grands Amphithéâtres, auditoire Gutenberg)
 
 	*	Johathan De Smet, AKABI
 
-6.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
+7.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	TBD  
 <!--- (??? Philippe Dubernard, IBM) --->
 
-7.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
+8.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
 	
 	*	Bruno Schroder, Microsoft
 
-8. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
+9. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
 	*	Angelo Cuttitta, Myrmidons
 
-9.	Mercredi 8 mai 2019 (Mons, centre Vésale, auditoire 025)
+10.	Mercredi 8 mai 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	Évaluation
 
-10.	Mercredi 15 mai 2019 (Mons, centre Vésale, auditoire 025)
+11.	Mercredi 15 mai 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	Évaluation
 
