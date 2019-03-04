@@ -21,7 +21,7 @@
 
 5.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
-	*	Maxime Denis, Necko Technologies
+	*	*Necko - Pourquoi créer une startup propulsée par le cloud ?*, Maxime Denis, Necko Technologies
 
 6.	Mercredi 20 Mars 2019 (Mons, Grands Amphithéâtres, auditoire Gutenberg)
 
