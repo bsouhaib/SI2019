@@ -29,7 +29,7 @@
 
 7.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	TBD  
+	*	*Artificial Intelligence with IBM Watson*, Eric Michiels, IBM
 <!--- (??? Philippe Dubernard, IBM) --->
 
 8.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
