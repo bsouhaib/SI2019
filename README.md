@@ -18,6 +18,7 @@
 4.	Mercredi 6 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	*SMACK: une pile logicielle pour le traitement big data*, [Dr. Mathieu Goeminne](https://www.cetic.be/Mathieu-Goeminne), CETIC 
+	* [[Slides]](slides/3-smack.pdf)
 
 5.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
