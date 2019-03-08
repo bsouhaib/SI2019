@@ -39,7 +39,7 @@
 
 9. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
-	*	Angelo Cuttitta, Myrmidons
+	* *DevOps : quand les skills techniques et le mindset s’allient pour Agiliser le développement !*, Angelo Cuttitta, Myrmidons
 
 10.	Mercredi 8 mai 2019 (Mons, centre Vésale, auditoire 025)
 
