@@ -54,7 +54,7 @@
 
 Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet **en rapport avec les séminaires présentés**. Ils devront ensuite donner une présentation sur ce sujet aux autres étudiants. 
 
-* Cette présentation sera effectuée par groupe de **deux étudiants** pendant **15 minutes**. 
+* Cette présentation sera effectuée par groupe de **deux étudiants** pendant **15 minutes**. Trois à cinq minutes additionelles seront utilisées pour poser des questions.
 * Les étudiants ne pourront utiliser qu’un **maximum de 10 slides**, et chaque étudiant devra prendre la parole. 
 * Les présentations auront lieu les** 8 et 15** mai. Ces deux dernières séances doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
 
