@@ -62,15 +62,13 @@ Après avoir assisté aux différents séminaires, les étudiants devront choisi
 Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisement, l'évaluation sera basée sur les éléments suivats:
 
 * **Le sujet traité (pertinent, émergent, en rapport avec les huits séminaires)**
-* **Les slides (polices et couleurs appropriés, pas trop encombrés, figures, lisibilité)**
+* **Les slides (polices et couleurs appropriées, pas trop encombrés, figures, lisibilité)**
 * **L'expression orale (fluidité, suscite l'intérêt, vocabulaire technique, cohérence et structure, respect du timing)**
 
 
 # Dates importantes
 
-- **7 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle.
-
-Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier.
+- **7 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier.**
 
 
 - **6 mai à 23h55**. Les slides sont soumis sur Moodle. On ne pourra plus les modifier.
