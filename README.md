@@ -49,3 +49,32 @@
 
 	*	Évaluation
 
+
+# Examen
+
+Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet en rapport avec les séminaires présentés. Ils devront ensuite donner une présentation sur ce sujet aux autres étudiants. 
+
+* Cette présentation sera effectuée par groupe de deux étudiants pendant 15 minutes. 
+* Les étudiants ne pourront utiliser qu’un maximum de 10 slides, et chaque étudiant devra prendre la parole. 
+* Les présentations auront lieu les 8 et 15 mai. Ces deux dernières séances doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
+
+
+Les étudiants seront évalués par rapport à leur capacité à analyser et présenter de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisement, l'évaluation sera basée sur les éléments suivats:
+
+* Le sujet traité (pertinent, émergent, en rapport avec les huits séminaires)
+* Les slides (polices et couleurs appropriés, pas trop encombrés, figures, lisibilité)
+* L'expression orale (fluidité, suscite l'intérêt, vocabulaire technique, cohérence et structure, respect du timing)
+
+
+# Dates importantes
+
+- 7 avril à 23h55 au plus tard. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle.
+
+Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier.
+
+
+- 6 mai à 23h55 au plus tard. Les slides sont soumis sur Moodle. On ne pourra plus les modifier.
+
+
+- 8 mai à 18h00. Présentations.
+- 15 mai à 18h00. Présentations.
