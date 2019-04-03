@@ -28,6 +28,8 @@
 6.	Mercredi 20 Mars 2019 (Mons, Grands Amphithéâtres, auditoire Gutenberg)
 
 	* *Revue des concepts liès aux environnements DataWareHouse avec un cas d'étude pour la mise en place d'un environnement BI chez ICE-WATCH*, [Johathan De Smet](https://www.linkedin.com/in/jonathandesmet/?originalSubdomain=lu), AKABI
+	* [[Slides I]](slides/6-AKABI-I.pdf)
+	* [[Slides I]](slides/6-AKABI-II.pdf)
 
 7.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
