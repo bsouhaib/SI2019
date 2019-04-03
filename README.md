@@ -22,16 +22,16 @@
 
 5.	Mercredi 13 Mars 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
-	*	*Necko - Pourquoi créer une startup propulsée par le cloud ?*, Maxime Denis, Necko Technologies
+	*	*Necko - Pourquoi créer une startup propulsée par le cloud ?*, [Maxime Denis](https://www.necko.tech/en), Necko Technologies
+	* [[Slides]](slides/5-necko.pdf)
 
 6.	Mercredi 20 Mars 2019 (Mons, Grands Amphithéâtres, auditoire Gutenberg)
 
-	* *Revue des concepts liès aux environnements DataWareHouse avec un cas d'étude pour la mise en place d'un environnement BI chez ICE-WATCH*, Johathan De Smet, AKABI
+	* *Revue des concepts liès aux environnements DataWareHouse avec un cas d'étude pour la mise en place d'un environnement BI chez ICE-WATCH*, [Johathan De Smet](https://www.linkedin.com/in/jonathandesmet/?originalSubdomain=lu), AKABI
 
 7.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
 	*	*Artificial Intelligence with IBM Watson*, Eric Michiels, IBM
-<!--- (??? Philippe Dubernard, IBM) --->
 
 8.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
 	
@@ -71,7 +71,7 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 - **7 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
 
 
-- **6 mai à 23h55**. Les slides sont soumis sur Moodle. On ne pourra plus les modifier.
+- **6 mai à 23h55**. Les slides sont soumis sur Moodle (en format PDF). On ne pourra plus les modifier.
 
 
 - **8 mai à 18h00**. Présentations.
