@@ -31,7 +31,8 @@
 
 7.	Mercredi 27 Mars 2019 (Mons, centre Vésale, auditoire 025)
 
-	*	*Artificial Intelligence with IBM Watson*, Eric Michiels, IBM
+	*	*Artificial Intelligence with IBM Watson*, [Eric Michiels](https://be.linkedin.com/in/eric-michiels-87a17016), IBM
+	* [[Slides]](slides/7-ibm.pdf)
 
 8.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
 	
