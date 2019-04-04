@@ -37,8 +37,9 @@
 	* [[Slides]](slides/7-ibm.pdf)
 
 8.	Mercredi 3 Avril 2019 (Mons, centre Vésale, auditoire 025)
-	
-	*	Bruno Schroder, Microsoft
+	* *Some basis elements for AI*, [Bruno Schroder](https://www.linkedin.com/in/bruno-schroder-bb57481/?originalSubdomain=be), Microsoft
+	* [[Slides I]](slides/8-data-econmy.pdf)
+	* [[Slides II]](slides/8-digital-twins.pdf)
 
 9. 	Jeudi 2 mai 2019 (Charleroi, local 1.11, Boulevard Joseph II, premier étage)
 
