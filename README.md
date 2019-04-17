@@ -85,6 +85,8 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 	- 18h40-18h55: **La maintenance prédictive l’un des outils des Asset Managers pour traverser la 4e révolution industrielle (industrie 4.0)**, Carlo Piussi et Alain Mugisha
 	- 19h00-19h15: **La résistance du Relationnel**, Koudjo Fabrice et Lungu Willy
 
+	- PAUSE
+
 	- 19h30-19h45: **Les microservices dans le Cloud**, Marylène Burvenich et Vincent Passau
 	- 19h50-20h05: **Image recognition with IBM solutions**, Waelkens Dimitri et Mattens Simon 
 	- 20h10-20h25: **Base de données de graphes et applications**, Nicolas PAQUET et Stephen MAYEUR
@@ -94,8 +96,10 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 	- 18h00-18h15: **Quels sont les impacts positifs d'implémenter un data Warhouse sur la stratégie d'entreprise**, Belkasem Assane
 	- 18h20-18h35: **L’IA et le sens commun**, Benjamin André et Benjamin Boelen
-	- 18h40-18h55: **Comment la technologie du big data peut aider à la détection de l'extraction de données en entreprise via DNS tunneling?**, Xavier Peremans et Anthony Turchetti
+	- 18h40-18h55: **Comment la technologie du big data peut aider à la détection de l'extraction de données en entreprise via DNS tunneling ?**, Xavier Peremans et Anthony Turchetti
 	- 19h00-19h15: **Smart Cities**, Palgen Arnaud et Proot Guillaume
+
+	- PAUSE
 
 	- 19h30-19h45: **Video analysis**, Daniels Maxime et Delfosse Charly
 	- 19h50-20h05: **L'intelligence artificielle dans le domaine médical**, Dom Massamesso et Sneessens Joachim
